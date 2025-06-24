@@ -14,6 +14,7 @@ export default function HomePage() {
       <ButtonTemplate link={"/orange"} text={"Orange"} color="green" />
       <ButtonTemplate link={"/mango"} text={"Mango"} color="green" />
       <ButtonTemplate link={"/lab3"} text={"Lab3"} color="green" />
+      <ButtonTemplate link={"/lab4"} text={"Lab4"} color="green" />
     </View>
   );
 }
